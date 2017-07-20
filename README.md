@@ -10,6 +10,3 @@ Personal scratch workspace using python for astronomy.
 
 * [Centroiding](http://nbviewer.jupyter.org/github/ysbach/PythonTools4Astro/blob/master/docs/Centroiding.ipynb)
   * Developed for an internship student at SNU for KASI KMTNet DEEP-South Project work.
-
-* [Sky Estimation]() (later...)
-  * Developed during the Astronomical Observation 1 course of SNU while serving as a TA.
