@@ -1,0 +1,12 @@
+id,name,mass,luminosity,comment,observer
+1,aa,10,2,0,John
+2,bb,20,5,0,John
+3,cc,30,,0,Amy
+4,dd,20,3,0,Amy
+5,ee,,1,0,unknown
+6,ff,10,6,0,Amy
+7,gg,20,,0,John
+8,hh,10,3,0,John
+9,ii,30,2,0,noname
+10,jj,10,7,0,noname
+,avg,17.7777777778,3.625,0,
