@@ -13,5 +13,6 @@ Personal scratch workspace using python for astronomy.
 * [Loading Data in Python](http://nbviewer.jupyter.org/github/ysbach/PythonTools4Astro/blob/master/Notebooks/Load_data_numpy_astropy.ipynb)
   * A simple notebook explaining possible usage of ``numpy.loadtxt``, ``numpy.genfromtxt``, and ``astropy.table`` in astronomiical fields.
 
+### 2. Notebooks
 * [Centroiding](http://nbviewer.jupyter.org/github/ysbach/PythonTools4Astro/blob/master/docs/Centroiding.ipynb)
   * Developed for an internship student at SNU for KASI KMTNet DEEP-South Project work.
